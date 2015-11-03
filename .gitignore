@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# KDevelop
+*.kdev4
+
+# Django
+db.sqlite3
